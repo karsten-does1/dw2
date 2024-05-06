@@ -2,5 +2,10 @@ const setup = ()=>{
 
 
 
+
+
+
+
 }
-window.addEventListner('load, setup)
+window.addEventListener("load", setup)
+
